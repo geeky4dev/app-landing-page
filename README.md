@@ -1,2 +1,3 @@
 # app-landing-page
-App Landing Page (Serverless) using HTML, CSS &amp; Bootstrap
+
+Create an App Landing Page (Serverless) using HTML, CSS & Bootstrap
